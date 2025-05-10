@@ -92,7 +92,5 @@ To understand consumer preferences in the TV market by analyzing:
 
 This project highlights how data science can be used to generate business insights from e-commerce product listings. The results can help Flipkart (or similar platforms) with inventory planning and customer-centric marketing.
 
----
 
-## 📁 Repository Structure
 
